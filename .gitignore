@@ -1,0 +1,13 @@
+# Ignore PyInstaller build output
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS trash
+.DS_Store
+
+# Ignore the spec file if you don’t want to track it
+# autossh.spec
